@@ -8,11 +8,11 @@ Me encanta trabajar en proyectos personales para expandir mi conocimiento.
 Siempre estoy dispuesto a colaborar en proyectos y a nuevas ofertas profesionales.
 
 <a href="https://x.com/erick_dev111" target="_blank" rel="noreferrer">
-  <img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="X" width="30" height="30" />
+  <img src="https://img.freepik.com/vector-premium/nuevo-vector-logotipo-twitter-x_768467-92.jpg?semt=ais_hybrid" alt="X" width="30" height="30" />
 </a>
 <a href="https://www.linkedin.com/in/erickalpucheh/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="30" height="30" />
 </a>
 <a href="" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="LeetCode" width="30" height="30" />
+  <img src="https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" alt="LeetCode" width="30" height="30" />
 </a>
