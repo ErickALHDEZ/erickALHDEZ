@@ -13,6 +13,6 @@ Siempre estoy dispuesto a colaborar en proyectos y a nuevas ofertas profesionale
 <a href="https://www.linkedin.com/in/erickalpucheh/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="30" height="30" />
 </a>
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://leetcode.com/u/erick_dev111/" target="_blank" rel="noreferrer">
   <img src="https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" alt="LeetCode" width="30" height="30" />
 </a>
