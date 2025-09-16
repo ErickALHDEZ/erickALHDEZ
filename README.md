@@ -12,7 +12,7 @@ I'm always open to collaborating on projects and new professional opportunities.
 <a href="https://leetcode.com/u/erick_dev111/" target="_blank" rel="noreferrer">
   <img src="https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" alt="LeetCode" width="30" height="30" />
 </a>
-<a href="https://leetcode.com/u/erick_dev111/](https://x.com/erick_dev111" target="_blank" rel="noreferrer">
+<a href="https://x.com/erick_dev111" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="LeetCode" width="30" height="30" />
 </a>
 <a href="https://tronicacloud.com" target="_blank" rel="noreferrer">
